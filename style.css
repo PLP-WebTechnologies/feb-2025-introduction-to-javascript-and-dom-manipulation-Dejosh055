@@ -1,0 +1,43 @@
+body{
+    background-color: #0a630a;
+    color:#fff ;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Trebuchet MS';
+}
+h1{
+    color: goldenrod;
+}
+#start-btn{
+    background-color: goldenrod;
+    color: #0a630a;
+    border: none;
+    border-radius: 3px;
+    width: 200px;
+    padding: 10px 5px;
+    align-items: center;
+    font-weight: bold;
+    font-family:sans-serif;
+    font-size: 20px;
+    margin-bottom: 5px;
+
+}
+button{
+    background-color: goldenrod;
+    color: #0a630a;
+    border: none;
+    border-radius: 3px;
+    width: 200px;
+    padding: 10px 5px;
+    align-items: center;
+    font-weight: bold;
+    font-family:sans-serif;
+    font-size: 20px;
+    display: block;
+    margin: auto;
+    
+
+}
+
